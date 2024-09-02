@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const gamesList = document.getElementById('games-list');
     const searchInput = document.getElementById('search');
+    const searchButton = document.getElementById('search-btn');
     let gamesData = [];
 
     // Função para carregar e exibir todos os jogos
@@ -43,6 +44,9 @@ document.addEventListener('DOMContentLoaded', () => {
         const jogosFiltrados = gamesData.filter(game => game.titulo.toLowerCase().includes(filtro));
         exibirJogos(jogosFiltrados);
     }
+
+    // Adiciona o evento de clique ao botão de busca
+    searchButton.addEventListener('click', filtrarJogos);
 
     // Carregar todos os jogos ao iniciar
     carregarJogos();

@@ -39,12 +39,32 @@ main {
     margin: 5px 0;
 }
 
+.search-container {
+    display: flex;
+    max-width: 600px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
 input#search {
     padding: 10px;
     font-size: 16px;
-    margin-bottom: 20px;
-    width: 100%;
-    max-width: 600px;
-    display: block;
-    margin: 0 auto;
+    flex: 1;
+    border: 1px solid #ddd;
+    border-radius: 4px 0 0 4px;
 }
+
+button#search-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 0 4px 4px 0;
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+}
+
+button#search-btn:hover {
+    background-color: #555;
+}
+
