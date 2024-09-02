@@ -1,0 +1,1991 @@
+[
+    {
+        "id": "1",
+        "titulo": "10 Games in 1 Cartridge",
+        "data_de_lancamento": "1983-05-01",
+        "descricao": "Uma coleção de 10 jogos clássicos em um único cartucho para o Atari 2600. Os jogos incluídos são: Pong, Space Invaders, Pac-Man, Breakout, Asteroids, Missile Command, Centipede, Adventure, Frogger, e Combat.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Compilação/Multigênero",
+        "url_capa": "URL_da_capa_10_games_in_1.jpg"
+    },
+    {
+        "id": "2",
+        "titulo": "3-D Tic-Tac-Toe",
+        "data_de_lancamento": "1980-12-01",
+        "descricao": "Uma versão tridimensional do clássico jogo da velha, onde os jogadores tentam alinhar três peças consecutivas em uma grade 4x4x4. O jogo pode ser jogado contra outro jogador ou contra a IA.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Puzzle/Tabuleiro",
+        "url_capa": "URL_da_capa_3d_tic_tac_toe.jpg"
+    },
+    {
+        "id": "3",
+        "titulo": "Adventure",
+        "data_de_lancamento": "1980-09-01",
+        "descricao": "Um dos primeiros jogos de ação e aventura onde o jogador controla um herói em uma missão para recuperar um cálice roubado, navegando por um labirinto cheio de dragões e perigos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Aventura",
+        "url_capa": "URL_da_capa_adventure.jpg"
+    },
+    {
+        "id": "4",
+        "titulo": "Adventures of Tron",
+        "data_de_lancamento": "1982-07-01",
+        "descricao": "Baseado no filme Tron, o jogador controla Tron enquanto coleta itens e evita inimigos em várias plataformas, subindo e descendo escadas para completar os níveis.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Plataforma",
+        "url_capa": "URL_da_capa_adventures_of_tron.jpg"
+    },
+    {
+        "id": "5",
+        "titulo": "Air-Sea Battle",
+        "data_de_lancamento": "1977-10-01",
+        "descricao": "Um jogo de combate em que o jogador controla aviões e navios, tentando atingir os alvos do adversário enquanto evita seus ataques.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Combate",
+        "url_capa": "URL_da_capa_air_sea_battle.jpg"
+    },
+    {
+        "id": "6",
+        "titulo": "Airlock",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de plataforma onde o jogador deve explorar e escapar de uma estação espacial, evitando perigos e resolvendo quebra-cabeças para sair com segurança.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Aventura",
+        "url_capa": "URL_da_capa_airlock.jpg"
+    },
+    {
+        "id": "7",
+        "titulo": "Alien",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Baseado no filme de ficção científica, o jogador controla uma nave espacial em uma missão para eliminar alienígenas enquanto navega por uma série de labirintos espaciais.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Ficção Científica",
+        "url_capa": "URL_da_capa_alien.jpg"
+    },
+    {
+        "id": "8",
+        "titulo": "Alpha Beam With Ernie",
+        "data_de_lancamento": "1983-06-01",
+        "descricao": "Um jogo educativo e interativo onde os jogadores ajudam o personagem Ernie a identificar e combinar letras e palavras em um cenário espacial.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Educação",
+        "url_capa": "URL_da_capa_alpha_beam_with_ernie.jpg"
+    },
+    {
+        "id": "9",
+        "titulo": "Amidar",
+        "data_de_lancamento": "1982-10-01",
+        "descricao": "O jogador controla um personagem que deve preencher uma tela com um padrão, enquanto evita e enfrenta inimigos e obstáculos que tentam impedir seu progresso.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Puzzle",
+        "url_capa": "URL_da_capa_amidar.jpg"
+    },
+    {
+        "id": "10",
+        "titulo": "Artillery Duel",
+        "data_de_lancamento": "1983-05-01",
+        "descricao": "Um jogo de combate em que os jogadores controlam armas de artilharia e devem mirar e atirar para destruir a artilharia inimiga enquanto defendem suas próprias posições.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Combate",
+        "url_capa": "URL_da_capa_artillery_duel.jpg"
+    },
+    {
+        "id": "11",
+        "titulo": "Asteroids",
+        "data_de_lancamento": "1981-01-01",
+        "descricao": "O jogador controla uma nave espacial que deve destruir asteroides e discos voadores enquanto evita colisões.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_asteroids.jpg"
+    },
+    {
+        "id": "12",
+        "titulo": "Astroblast",
+        "data_de_lancamento": "1981-01-01",
+        "descricao": "O jogador controla uma nave que deve destruir asteroides e outros inimigos em uma missão espacial, evitando ser atingido.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_astroblast.jpg"
+    },
+    {
+        "id": "13",
+        "titulo": "Atari Video Cube",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de quebra-cabeça onde o jogador deve manipular e combinar cubos em uma grade tridimensional para resolver os desafios propostos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Puzzle",
+        "url_capa": "URL_da_capa_atari_video_cube.jpg"
+    },
+    {
+        "id": "14",
+        "titulo": "Atlantis",
+        "data_de_lancamento": "1982-06-01",
+        "descricao": "O jogador defende a cidade subaquática de Atlantis contra invasões de alienígenas e mísseis, tentando proteger seus edifícios e salvar a cidade.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Defesa",
+        "url_capa": "URL_da_capa_atlantis.jpg"
+    },
+    {
+        "id": "15",
+        "titulo": "Backgammon",
+        "data_de_lancamento": "1981-01-01",
+        "descricao": "Uma versão digital do clássico jogo de tabuleiro Backgammon, onde dois jogadores competem para mover suas peças através do tabuleiro com base em dados.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Tabuleiro/Estratégia",
+        "url_capa": "URL_da_capa_backgammon.jpg"
+    },
+    {
+        "id": "16",
+        "titulo": "Barnstorming",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "O jogador controla um avião que deve passar por uma série de arcos em um campo, evitando obstáculos e completando desafios para ganhar pontos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_barnstorming.jpg"
+    },
+    {
+        "id": "17",
+        "titulo": "BASIC Programming",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo educativo que ensina o básico da programação em BASIC, permitindo aos jogadores aprender e praticar habilidades de codificação.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Educação/Programação",
+        "url_capa": "URL_da_capa_basic_programming.jpg"
+    },
+    {
+        "id": "18",
+        "titulo": "Basketball",
+        "data_de_lancamento": "1978-06-01",
+        "descricao": "Um jogo de esportes onde dois jogadores competem em uma partida de basquete, tentando fazer mais pontos ao arremessar a bola na cesta do adversário.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte",
+        "url_capa": "URL_da_capa_basketball.jpg"
+    },
+    {
+        "id": "19",
+        "titulo": "Battlezone",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "O jogador controla um tanque de batalha em um ambiente 3D, tentando destruir inimigos e evitar ser destruído, utilizando uma visão em primeira pessoa.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Combate",
+        "url_capa": "URL_da_capa_battlezone.jpg"
+    },
+    {
+        "id": "20",
+        "titulo": "Beamrider",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "O jogador controla uma nave que deve se defender de ondas de inimigos e obstáculos enquanto navega por um campo de batalha futurista.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_beamrider.jpg"
+    },
+    {
+        "id": "21",
+        "titulo": "Berzerk",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "O jogador controla um personagem que deve navegar por um labirinto, evitando e destruindo robôs enquanto evita serem mortos por suas balas.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_berzerk.jpg"
+    },
+    {
+        "id": "22",
+        "titulo": "Big Bird's Egg Catch",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo educativo onde o jogador ajuda Big Bird a pegar ovos caindo de um ninho, enquanto evita que os ovos que caem fora do alcance.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Educação",
+        "url_capa": "URL_da_capa_big_birds_egg_catch.jpg"
+    },
+    {
+        "id": "23",
+        "titulo": "Blackjack",
+        "data_de_lancamento": "1981-01-01",
+        "descricao": "Uma versão digital do popular jogo de cartas Blackjack, onde o jogador tenta alcançar uma soma de 21 pontos com as cartas, sem ultrapassar esse valor.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Card Game",
+        "url_capa": "URL_da_capa_blackjack.jpg"
+    },
+    {
+        "id": "24",
+        "titulo": "Bowling",
+        "data_de_lancamento": "1978-06-01",
+        "descricao": "Uma simulação do jogo de boliche onde o jogador tenta derrubar o máximo de pinos possível com o menor número de lançamentos.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte",
+        "url_capa": "URL_da_capa_bowling.jpg"
+    },
+    {
+        "id": "25",
+        "titulo": "Boxing",
+        "data_de_lancamento": "1978-06-01",
+        "descricao": "Um jogo de boxe onde o jogador controla um lutador e compete contra um oponente controlado pela IA ou outro jogador em uma luta de boxe.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Combate",
+        "url_capa": "URL_da_capa_boxing.jpg"
+    },
+    {
+        "id": "26",
+        "titulo": "Brain Games",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Uma coleção de jogos mentais e quebra-cabeças projetados para desafiar e estimular o cérebro do jogador com uma variedade de atividades cognitivas.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Educação/Puzzle",
+        "url_capa": "URL_da_capa_brain_games.jpg"
+    },
+    {
+        "id": "27",
+        "titulo": "Breakout",
+        "data_de_lancamento": "1978-06-01",
+        "descricao": "O jogador controla uma barra na parte inferior da tela para rebater uma bola e destruir blocos dispostos no topo da tela, evitando que a bola caia.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Arcade/Puzzle",
+        "url_capa": "URL_da_capa_breakout.jpg"
+    },
+    {
+        "id": "28",
+        "titulo": "Bridge",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Uma versão digital do clássico jogo de cartas Bridge, onde o jogador participa de uma partida de contrato contra adversários controlados pela IA.",
+        "quantidade_de_jogadores": "1-4",
+        "genero": "Card Game/Estratégia",
+        "url_capa": "URL_da_capa_bridge.jpg"
+    },
+    {
+        "id": "29",
+        "titulo": "Buck Rogers: Planet of Zoom",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Baseado na série Buck Rogers, o jogador controla uma nave espacial em uma missão para destruir inimigos e completar objetivos em um cenário futurista.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_buck_rogers_planet_of_zoom.jpg"
+    },
+    {
+        "id": "30",
+        "titulo": "Bugs",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "O jogador deve controlar um personagem que deve evitar e capturar vários tipos de insetos enquanto navega por diferentes ambientes.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Puzzle",
+        "url_capa": "URL_da_capa_bugs.jpg"
+    },
+    {
+        "id": "31",
+        "titulo": "Bump 'N' Jump",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de corrida e ação onde o jogador controla um carro e deve saltar e bater em outros veículos para ganhar pontos, enquanto evita obstáculos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Corrida",
+        "url_capa": "URL_da_capa_bump_n_jump.jpg"
+    },
+    {
+        "id": "32",
+        "titulo": "Bumper Bash",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de ação e estratégia onde os jogadores controlam personagens em uma arena de bumper cars, tentando bater nos adversários para ganhar pontos.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_bumper_bash.jpg"
+    },
+    {
+        "id": "33",
+        "titulo": "BurgerTime",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "O jogador controla um chef que deve montar hambúrgueres enquanto evita inimigos que tentam interromper o processo. O objetivo é completar os hambúrgueres e ganhar pontos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_burgertime.jpg"
+    },
+    {
+        "id": "34",
+        "titulo": "California Games",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Uma coleção de esportes de verão que inclui eventos como surfe, skate, e voo com planeador. O jogador compete em diferentes modalidades para ganhar a maior pontuação.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Multiesporte",
+        "url_capa": "URL_da_capa_california_games.jpg"
+    },
+    {
+        "id": "35",
+        "titulo": "Canyon Bomber",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "O jogador controla um avião que deve lançar bombas para destruir alvos em um canyon, enquanto evita obstáculos e inimigos.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Combate",
+        "url_capa": "URL_da_capa_canyon_bomber.jpg"
+    },
+    {
+        "id": "36",
+        "titulo": "Casino",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Uma coleção de jogos de cassino, incluindo jogos como poker e blackjack, permitindo ao jogador experimentar diferentes jogos de azar em um só cartucho.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Card Game/Simulação",
+        "url_capa": "URL_da_capa_casino.jpg"
+    },
+    {
+        "id": "37",
+        "titulo": "Centipede",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "O jogador controla um disparador que deve destruir um centípede que desce pela tela, evitando outros inimigos e obstáculos que aparecem ao longo do caminho.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_centipede.jpg"
+    },
+    {
+        "id": "38",
+        "titulo": "Checkers",
+        "data_de_lancamento": "1981-01-01",
+        "descricao": "Uma versão digital do clássico jogo de damas, onde o jogador compete contra um oponente para capturar ou bloquear todas as peças adversárias.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Tabuleiro/Estratégia",
+        "url_capa": "URL_da_capa_checkers.jpg"
+    },
+    {
+        "id": "39",
+        "titulo": "Chopper Command",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "O jogador controla um helicóptero de combate que deve proteger uma caravana de veículos enquanto enfrenta ataques inimigos e obstáculos no caminho.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Combate",
+        "url_capa": "URL_da_capa_chopper_command.jpg"
+    },
+    {
+        "id": "40",
+        "titulo": "Circus Atari",
+        "data_de_lancamento": "1980-01-01",
+        "descricao": "O jogador controla um personagem em um circo, realizando acrobacias e evitando obstáculos enquanto tenta completar os desafios propostos.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_circus_atari.jpg"
+    },
+    {
+        "id": "41",
+        "titulo": "Codebreaker",
+        "data_de_lancamento": "1980-01-01",
+        "descricao": "Um jogo de quebra-cabeças onde o jogador deve adivinhar e descobrir uma combinação secreta de cores antes que o tempo acabe.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Puzzle",
+        "url_capa": "URL_da_capa_codebreaker.jpg"
+    },
+    {
+        "id": "42",
+        "titulo": "Combat",
+        "data_de_lancamento": "1977-10-01",
+        "descricao": "Um jogo de batalha que simula combate de tanques e aviões. O jogador compete contra um oponente para destruir veículos inimigos e ganhar pontos.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Combate",
+        "url_capa": "URL_da_capa_combat.jpg"
+    },
+    {
+        "id": "43",
+        "titulo": "Commando",
+        "data_de_lancamento": "1985-01-01",
+        "descricao": "Um jogo de ação onde o jogador controla um soldado de comando em uma missão para resgatar reféns e eliminar inimigos em uma série de missões de combate.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Combate",
+        "url_capa": "URL_da_capa_commando.jpg"
+    },
+    {
+        "id": "44",
+        "titulo": "Concentration",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de memória onde o jogador deve encontrar pares de cartas correspondentes em um tabuleiro, testando e melhorando sua memória visual.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Puzzle",
+        "url_capa": "URL_da_capa_concentration.jpg"
+    },
+    {
+        "id": "45",
+        "titulo": "Congo Bongo",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de plataforma onde o jogador deve superar uma série de desafios e obstáculos enquanto tenta resgatar um personagem em uma selva africana.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Plataforma",
+        "url_capa": "URL_da_capa_congo_bongo.jpg"
+    },
+    {
+        "id": "46",
+        "titulo": "Cookie Monster Munch",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo educativo baseado no personagem Cookie Monster onde o jogador deve ajudar Cookie Monster a coletar cookies enquanto evita obstáculos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Educação/Arcade",
+        "url_capa": "URL_da_capa_cookie_monster_munch.jpg"
+    },
+    {
+        "id": "47",
+        "titulo": "Cosmic Commuter",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "O jogador controla um ônibus espacial que deve transportar passageiros através de um campo de asteroides e outros perigos no espaço.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_cosmic_commuter.jpg"
+    },
+    {
+        "id": "48",
+        "titulo": "Crackpots",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de ação onde o jogador controla um personagem que deve proteger uma série de edifícios de uma chuva de panelas e outros objetos, lançando-os de volta para os inimigos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_crackpots.jpg"
+    },
+    {
+        "id": "49",
+        "titulo": "Crazy Climber",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "O jogador controla um alpinista que deve escalar arranha-céus enquanto evita obstáculos e perigos, tentando alcançar o topo para ganhar pontos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Plataforma",
+        "url_capa": "URL_da_capa_crazy_climber.jpg"
+    },
+    {
+        "id": "50",
+        "titulo": "Crystal Castles",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de ação e aventura onde o jogador controla um personagem que deve explorar castelos e coletar cristais enquanto evita inimigos e perigos.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Aventura",
+        "url_capa": "URL_da_capa_crystal_castles.jpg"
+    },
+    {
+        "id": "51",
+        "titulo": "Dark Cavern",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de ação e labirinto onde o jogador explora cavernas, enfrenta inimigos e coleta itens enquanto evita armadilhas.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Aventura",
+        "url_capa": "URL_da_capa_dark_cavern.jpg"
+    },
+    {
+        "id": "52",
+        "titulo": "Dark Chambers",
+        "data_de_lancamento": "1988-01-01",
+        "descricao": "O jogador explora uma série de masmorras, enfrentando inimigos e coletando itens em um ambiente de ação e aventura em um estilo de labirinto.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Aventura",
+        "url_capa": "URL_da_capa_dark_chambers.jpg"
+    },
+    {
+        "id": "53",
+        "titulo": "Defender",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "O jogador controla uma nave espacial que deve defender uma colônia de ondas de inimigos, resgatando humanos e destruindo os invasores.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_defender.jpg"
+    },
+    {
+        "id": "54",
+        "titulo": "Demon Attack",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "O jogador deve defender a Terra de uma invasão de demônios espaciais, disparando em suas hordas enquanto evita suas ofensivas.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_demon_attack.jpg"
+    },
+    {
+        "id": "55",
+        "titulo": "Demons To Diamonds",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de ação onde o jogador deve destruir demônios e coletar diamantes, utilizando uma variedade de armas e estratégias.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_demons_to_diamonds.jpg"
+    },
+    {
+        "id": "56",
+        "titulo": "Desert Falcon",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "O jogador controla um falcão no deserto, enfrentando inimigos e coletando tesouros enquanto sobrevoa e evita obstáculos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_desert_falcon.jpg"
+    },
+    {
+        "id": "57",
+        "titulo": "Dig Dug",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "O jogador controla um minerador que deve cavar subterraneamente, inflar e destruir inimigos enquanto coleta itens e evita perigos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_dig_dug.jpg"
+    },
+    {
+        "id": "58",
+        "titulo": "Dodge 'Em",
+        "data_de_lancamento": "1981-01-01",
+        "descricao": "Um jogo de ação onde o jogador deve dirigir um carro e evitar colisões com outros veículos e obstáculos enquanto coleta itens na pista.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_dodge_em.jpg"
+    },
+    {
+        "id": "59",
+        "titulo": "Dolphin",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "O jogador controla um golfinho em um ambiente subaquático, enfrentando inimigos e coletando itens enquanto navega pelos oceanos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Adventure",
+        "url_capa": "URL_da_capa_dolphin.jpg"
+    },
+    {
+        "id": "60",
+        "titulo": "Donkey Kong",
+        "data_de_lancamento": "1981-01-01",
+        "descricao": "O jogador controla Mario em uma missão para resgatar a Princesa de Donkey Kong, saltando sobre plataformas e evitando obstáculos e inimigos.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Plataforma",
+        "url_capa": "URL_da_capa_donkey_kong.jpg"
+    },
+    {
+        "id": "61",
+        "titulo": "Donkey Kong Junior",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "O jogador controla Donkey Kong Junior em uma missão para resgatar seu pai, enfrentando vários desafios e obstáculos em uma série de plataformas.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Plataforma",
+        "url_capa": "URL_da_capa_donkey_kong_junior.jpg"
+    },
+    {
+        "id": "62",
+        "titulo": "Double Dragon",
+        "data_de_lancamento": "1988-01-01",
+        "descricao": "Um jogo de luta onde dois jogadores controlam irmãos que enfrentam gangues em uma série de níveis, lutando para resgatar a irmã sequestrada.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Luta",
+        "url_capa": "URL_da_capa_double_dragon.jpg"
+    },
+    {
+        "id": "63",
+        "titulo": "Double Dunk",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de basquete onde os jogadores competem em partidas de um contra um ou dois contra dois, tentando marcar pontos e realizar enterradas.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Basquete",
+        "url_capa": "URL_da_capa_double_dunk.jpg"
+    },
+    {
+        "id": "64",
+        "titulo": "Dragonfire",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "O jogador controla um cavaleiro que deve atravessar um castelo e enfrentar dragões para resgatar a princesa e coletar tesouros.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Plataforma",
+        "url_capa": "URL_da_capa_dragonfire.jpg"
+    },
+    {
+        "id": "65",
+        "titulo": "Dragster",
+        "data_de_lancamento": "1980-01-01",
+        "descricao": "Um jogo de corrida onde o jogador controla um carro de drag racing, competindo para obter o melhor tempo em corridas curtas e rápidas.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Corrida",
+        "url_capa": "URL_da_capa_dragster.jpg"
+    },
+    {
+        "id": "66",
+        "titulo": "E.T.: The Extra Terrestrial",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Baseado no filme, o jogador controla E.T. tentando escapar de caçadores e voltar para sua nave enquanto coleta peças e evita perigos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Aventura",
+        "url_capa": "URL_da_capa_et_the_extra_terrestrial.jpg"
+    },
+    {
+        "id": "67",
+        "titulo": "Eggomania",
+        "data_de_lancamento": "1985-01-01",
+        "descricao": "Um jogo onde o jogador controla um personagem que deve proteger ovos em um ambiente repleto de obstáculos e inimigos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_eggomaniac.jpg"
+    },
+    {
+        "id": "68",
+        "titulo": "Encounter At L-5",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de ação e estratégia espacial onde o jogador deve defender uma estação espacial de invasores e perigos cósmicos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_encounter_at_l5.jpg"
+    },
+    {
+        "id": "69",
+        "titulo": "Enduro",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de corrida onde o jogador participa de uma maratona de corridas de longa distância, enfrentando diferentes condições meteorológicas e terrenos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Corrida",
+        "url_capa": "URL_da_capa_enduro.jpg"
+    },
+    {
+        "id": "70",
+        "titulo": "Fantastic Voyage",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Baseado no filme, o jogador controla uma miniatura de nave que viaja pelo corpo humano, enfrentando perigos e obstáculos enquanto realiza sua missão.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Aventura",
+        "url_capa": "URL_da_capa_fantastic_voyage.jpg"
+    },
+    {
+        "id": "71",
+        "titulo": "Fatal Run",
+        "data_de_lancamento": "1988-01-01",
+        "descricao": "Um jogo de corrida e combate em que o jogador controla um veículo armado em um mundo pós-apocalíptico, enfrentando inimigos e desafios em estradas perigosas.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Corrida",
+        "url_capa": "URL_da_capa_fatal_run.jpg"
+    },
+    {
+        "id": "72",
+        "titulo": "Fire Fighter",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "O jogador assume o papel de um bombeiro que deve apagar incêndios em vários edifícios enquanto resgata civis e evita perigos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Simulação",
+        "url_capa": "URL_da_capa_fire_fighter.jpg"
+    },
+    {
+        "id": "73",
+        "titulo": "Fishing Derby",
+        "data_de_lancamento": "1980-01-01",
+        "descricao": "Um jogo de pesca onde o jogador compete para capturar o maior número de peixes possível dentro de um limite de tempo.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Pesca",
+        "url_capa": "URL_da_capa_fishing_derby.jpg"
+    },
+    {
+        "id": "74",
+        "titulo": "Flag Capture",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de estratégia e ação onde os jogadores competem para capturar a bandeira do oponente e trazê-la de volta à sua base enquanto defendem sua própria bandeira.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Estratégia/Ação",
+        "url_capa": "URL_da_capa_flag_capture.jpg"
+    },
+    {
+        "id": "75",
+        "titulo": "Football",
+        "data_de_lancamento": "1978-01-01",
+        "descricao": "Um jogo de futebol americano em que o jogador controla uma equipe e compete em partidas para marcar pontos e vencer jogos.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Futebol Americano",
+        "url_capa": "URL_da_capa_football.jpg"
+    },
+    {
+        "id": "76",
+        "titulo": "Freeway",
+        "data_de_lancamento": "1981-01-01",
+        "descricao": "Um jogo de corrida em que o jogador controla um carro que deve atravessar uma estrada movimentada, evitando outros veículos e tentando alcançar o final.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Corrida/Arcade",
+        "url_capa": "URL_da_capa_freeway.jpg"
+    },
+    {
+        "id": "77",
+        "titulo": "Frogger",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "O jogador controla um sapo que deve atravessar ruas e rios, evitando veículos e perigos enquanto tenta chegar ao seu destino seguro.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_frogger.jpg"
+    },
+    {
+        "id": "78",
+        "titulo": "Frogs And Flies",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo onde o jogador controla um sapo que deve capturar insetos enquanto evita obstáculos e inimigos em um ambiente de arcade.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_frogs_and_flies.jpg"
+    },
+    {
+        "id": "79",
+        "titulo": "Front Line",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de ação militar onde o jogador controla um soldado que deve enfrentar inimigos e completar missões em um campo de batalha.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Combate",
+        "url_capa": "URL_da_capa_front_line.jpg"
+    },
+    {
+        "id": "80",
+        "titulo": "Frostbite",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "O jogador controla um personagem que deve construir e proteger uma série de iglus enquanto enfrenta condições adversas e inimigos no ártico.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_frostbite.jpg"
+    },
+    {
+        "id": "81",
+        "titulo": "Fun With Numbers",
+        "data_de_lancamento": "1985-01-01",
+        "descricao": "Um jogo educativo onde os jogadores resolvem problemas matemáticos e jogam minigames para melhorar suas habilidades numéricas.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Educação",
+        "url_capa": "URL_da_capa_fun_with_numbers.jpg"
+    },
+    {
+        "id": "82",
+        "titulo": "G.I. Joe: Cobra Strike",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo baseado na famosa série G.I. Joe, onde o jogador enfrenta a organização Cobra em uma série de missões de combate e estratégia.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Combate",
+        "url_capa": "URL_da_capa_gi_joe_cobra_strike.jpg"
+    },
+    {
+        "id": "83",
+        "titulo": "Galaxian",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um clássico jogo de tiro espacial onde o jogador controla uma nave e enfrenta ondas de inimigos alienígenas que descem em formação.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_galaxian.jpg"
+    },
+    {
+        "id": "84",
+        "titulo": "Ghostbusters",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Baseado no filme, o jogador controla os Ghostbusters em uma missão para capturar fantasmas e resolver mistérios sobrenaturais.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Aventura",
+        "url_capa": "URL_da_capa_ghostbusters.jpg"
+    },
+    {
+        "id": "85",
+        "titulo": "Ghostbusters II",
+        "data_de_lancamento": "1989-01-01",
+        "descricao": "Continuação do jogo Ghostbusters, onde os jogadores enfrentam novos fantasmas e desafios inspirados no filme Ghostbusters II.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Aventura",
+        "url_capa": "URL_da_capa_ghostbusters_ii.jpg"
+    },
+    {
+        "id": "86",
+        "titulo": "Golf",
+        "data_de_lancamento": "1978-01-01",
+        "descricao": "Um jogo de golfe onde o jogador compete em uma série de buracos, tentando obter a menor pontuação possível com o menor número de tacadas.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Golfe",
+        "url_capa": "URL_da_capa_golf.jpg"
+    },
+    {
+        "id": "87",
+        "titulo": "Gorf",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de tiro espacial com várias fases e uma variedade de inimigos e obstáculos, onde o jogador enfrenta ondas de ataques em diferentes níveis.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_gorf.jpg"
+    },
+    {
+        "id": "88",
+        "titulo": "Grand Prix",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de corrida onde o jogador compete em corridas de Fórmula 1, tentando terminar em primeiro lugar enquanto evita obstáculos e adversários.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Corrida",
+        "url_capa": "URL_da_capa_grand_prix.jpg"
+    },
+    {
+        "id": "89",
+        "titulo": "Gravitar",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de tiro espacial onde o jogador controla uma nave que deve navegar por campos de asteroides e atacar inimigos em uma gravidade variável.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_gravitar.jpg"
+    },
+    {
+        "id": "90",
+        "titulo": "Gremlins",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Baseado no filme, o jogador deve enfrentar uma horda de gremlins que causam caos e destruição enquanto tenta completar suas missões.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Aventura",
+        "url_capa": "URL_da_capa_gremlins.jpg"
+    },
+    {
+        "id": "91",
+        "titulo": "Gyruss",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de tiro espacial onde o jogador controla uma nave que gira em torno de um centro de gravidade, enfrentando ondas de inimigos e obstáculos em uma perspectiva tridimensional.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_gyruss.jpg"
+    },
+    {
+        "id": "92",
+        "titulo": "H.E.R.O.",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "O jogador controla um herói equipado com um jetpack e uma lanterna, explorando cavernas e resgatando pessoas enquanto enfrenta perigos e obstáculos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Aventura",
+        "url_capa": "URL_da_capa_hero.jpg"
+    },
+    {
+        "id": "93",
+        "titulo": "Hangman",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Uma adaptação do clássico jogo da forca, onde o jogador tenta adivinhar palavras letter by letter antes que o homem da forca seja completado.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Palavras/Educação",
+        "url_capa": "URL_da_capa_hangman.jpg"
+    },
+    {
+        "id": "94",
+        "titulo": "Haunted House",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "O jogador explora uma mansão assombrada, coletando peças de um óculo mágico e evitando fantasmas e monstros em uma aventura de mistério e ação.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Aventura",
+        "url_capa": "URL_da_capa_haunted_house.jpg"
+    },
+    {
+        "id": "95",
+        "titulo": "Home Run",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Um jogo de beisebol onde o jogador compete em partidas, tentando marcar home runs e vencer o adversário em um ambiente de esportes.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Beisebol",
+        "url_capa": "URL_da_capa_home_run.jpg"
+    },
+    {
+        "id": "96",
+        "titulo": "Human Cannonball",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "O jogador controla um canhão humano que deve ser disparado em alvos específicos, ajustando a trajetória para acertar o alvo e marcar pontos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_human_cannonball.jpg"
+    },
+    {
+        "id": "97",
+        "titulo": "Ikari Warriors",
+        "data_de_lancamento": "1987-01-01",
+        "descricao": "Um jogo de ação militar onde o jogador controla soldados em missões de combate, enfrentando inimigos em uma série de níveis e salvando reféns.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Combate",
+        "url_capa": "URL_da_capa_ikari_warriors.jpg"
+    },
+    {
+        "id": "98",
+        "titulo": "Indy 500",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de corrida baseado na famosa corrida de Fórmula 1, onde o jogador compete em uma série de corridas tentando vencer e estabelecer o melhor tempo.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Corrida",
+        "url_capa": "URL_da_capa_indy_500.jpg"
+    },
+    {
+        "id": "99",
+        "titulo": "International Soccer",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de futebol onde o jogador compete em partidas internacionais, controlando uma equipe e tentando marcar gols para vencer o jogo.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Futebol",
+        "url_capa": "URL_da_capa_international_soccer.jpg"
+    },
+    {
+        "id": "100",
+        "titulo": "James Bond 007",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Baseado no famoso espião, o jogador assume o papel de James Bond em várias missões secretas, enfrentando vilões e completando objetivos em uma série de níveis.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Aventura",
+        "url_capa": "URL_da_capa_james_bond_007.jpg"
+    },
+    {
+        "id": "101",
+        "titulo": "Jawbreaker",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de arcade onde o jogador controla um personagem que deve capturar doces enquanto evita inimigos e coleta bônus.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_jawbreaker.jpg"
+    },
+    {
+        "id": "102",
+        "titulo": "Journey Escape",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Baseado na banda Journey, o jogador deve guiar os membros da banda através de uma série de obstáculos e desafios para completar o show.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_journey_escape.jpg"
+    },
+    {
+        "id": "103",
+        "titulo": "Joust",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de arcade onde o jogador controla um cavaleiro montado em uma ave e deve derrotar inimigos em uma arena flutuante.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_joust.jpg"
+    },
+    {
+        "id": "104",
+        "titulo": "Jr. Pac-Man",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Uma versão do clássico Pac-Man com um novo layout de labirinto e desafios, onde o jogador deve comer todas as pastilhas enquanto evita fantasmas.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_jr_pacman.jpg"
+    },
+    {
+        "id": "105",
+        "titulo": "Jungle Hunt",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "O jogador controla um explorador na selva que deve superar obstáculos como crocodilos e cipós para resgatar uma donzela em perigo.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Aventura",
+        "url_capa": "URL_da_capa_jungle_hunt.jpg"
+    },
+    {
+        "id": "106",
+        "titulo": "Kaboom!",
+        "data_de_lancamento": "1981-01-01",
+        "descricao": "Um jogo de arcade onde o jogador deve capturar baldes de água para apagar bombas que caem do céu, evitando que explodam.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_kaboom.jpg"
+    },
+    {
+        "id": "107",
+        "titulo": "Kangaroo",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "O jogador controla uma canguru mãe que deve resgatar seu filhote de macacos, pulando de plataforma em plataforma e evitando inimigos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Plataforma",
+        "url_capa": "URL_da_capa_kangaroo.jpg"
+    },
+    {
+        "id": "108",
+        "titulo": "Keystone Kapers",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo onde o jogador assume o papel de um policial que deve capturar um ladrão fugitivo enquanto evita obstáculos e coleciona itens.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_keystone_kapers.jpg"
+    },
+    {
+        "id": "109",
+        "titulo": "Kung-Fu Master",
+        "data_de_lancamento": "1987-01-01",
+        "descricao": "Um jogo de luta onde o jogador controla um mestre de kung-fu que deve derrotar inimigos em vários níveis para resgatar sua amada.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Luta",
+        "url_capa": "URL_da_capa_kung_fu_master.jpg"
+    },
+    {
+        "id": "110",
+        "titulo": "Laser Blast",
+        "data_de_lancamento": "1981-01-01",
+        "descricao": "O jogador controla uma nave espacial que deve destruir alvos inimigos em uma tela vertical, enfrentando uma série de desafios e obstáculos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_laser_blast.jpg"
+    },
+    {
+        "id": "111",
+        "titulo": "Lock 'n' Chase",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de arcade onde o jogador controla um ladrão que deve coletar todos os itens enquanto evita os guardas e abre cofres.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_lock_n_chase.jpg"
+    },
+    {
+        "id": "112",
+        "titulo": "MagiCard",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Um jogo de cartas com uma temática mágica, onde o jogador deve coletar cartas e realizar feitiços para vencer os oponentes em duelos mágicos.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Cartas/Estrategia",
+        "url_capa": "URL_da_capa_magicard.jpg"
+    },
+    {
+        "id": "113",
+        "titulo": "Mario Bros.",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um clássico jogo de plataforma onde Mario e Luigi trabalham juntos para eliminar criaturas do esgoto e ganhar pontos enquanto limpam os níveis.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Plataforma",
+        "url_capa": "URL_da_capa_mario_bros.jpg"
+    },
+    {
+        "id": "114",
+        "titulo": "Math Gran Prix",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Um jogo educativo onde o jogador compete em corridas enquanto resolve problemas matemáticos para avançar e vencer.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Educação/Corrida",
+        "url_capa": "URL_da_capa_math_gran_prix.jpg"
+    },
+    {
+        "id": "115",
+        "titulo": "Maze Craze: A Game of Cops 'n Robbers",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de labirinto onde o jogador assume o papel de um policial ou ladrão, tentando capturar o oponente ou escapar da prisão.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Labirinto",
+        "url_capa": "URL_da_capa_maze_craze.jpg"
+    },
+    {
+        "id": "116",
+        "titulo": "MegaMania",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de tiro onde o jogador controla uma nave espacial que deve destruir ondas de inimigos e evitar obstáculos em uma tela de rolagem vertical.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_megamana.jpg"
+    },
+    {
+        "id": "117",
+        "titulo": "Midnight Magic",
+        "data_de_lancamento": "1989-01-01",
+        "descricao": "Um jogo de pinball com um tema de magia, onde o jogador deve acertar alvos e completar objetivos para acumular pontos e avançar no jogo.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Arcade/Pinball",
+        "url_capa": "URL_da_capa_midnight_magic.jpg"
+    },
+    {
+        "id": "118",
+        "titulo": "Millipede",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Um jogo de tiro onde o jogador controla uma nave que deve destruir uma série de insetos que descem em direção à tela, semelhante ao jogo Centipede.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_millipede.jpg"
+    },
+    {
+        "id": "119",
+        "titulo": "Miner 2049er",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Um jogo de plataforma onde o jogador controla um minerador que deve limpar todas as plataformas de ouro e evitar inimigos em uma série de cavernas.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Plataforma",
+        "url_capa": "URL_da_capa_miner_2049er.jpg"
+    },
+    {
+        "id": "120",
+        "titulo": "Miniature Golf",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de golfe em miniatura onde o jogador deve completar uma série de buracos com o menor número de tacadas possíveis em um ambiente de mini-golf.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Golfe",
+        "url_capa": "URL_da_capa_miniature_golf.jpg"
+    },
+    {
+        "id": "121",
+        "titulo": "Missile Command",
+        "data_de_lancamento": "1981-01-01",
+        "descricao": "Um jogo de defesa onde o jogador deve proteger cidades de mísseis inimigos lançando suas próprias defesas antes que as cidades sejam destruídas.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Defesa",
+        "url_capa": "URL_da_capa_missile_command.jpg"
+    },
+    {
+        "id": "122",
+        "titulo": "Montezuma's Revenge: Featuring Panama Joe",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Um jogo de plataforma e aventura onde o jogador controla Panama Joe em sua busca para explorar uma antiga pirâmide e coletar tesouros.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Aventura",
+        "url_capa": "URL_da_capa_montezumas_revenge.jpg"
+    },
+    {
+        "id": "123",
+        "titulo": "Moon Patrol",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de ação onde o jogador controla um veículo lunar que deve navegar por terrenos acidentados, destruindo inimigos e evitando obstáculos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_moon_patrol.jpg"
+    },
+    {
+        "id": "124",
+        "titulo": "Moonsweeper",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de ação espacial onde o jogador controla uma nave e deve limpar a tela de perigos enquanto coleta itens e evita obstáculos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_moonsweeper.jpg"
+    },
+    {
+        "id": "125",
+        "titulo": "Mouse Trap",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "O jogador controla um rato que deve coletar queijo e evitar armadilhas enquanto navega por um labirinto complicado.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_mouse_trap.jpg"
+    },
+    {
+        "id": "126",
+        "titulo": "Mr. Do!",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de arcade onde o jogador controla Mr. Do, que deve cavar buracos, coletar frutas e evitar inimigos em um labirinto.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_mr_do.jpg"
+    },
+    {
+        "id": "127",
+        "titulo": "Ms. Pac-Man",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Uma versão do clássico Pac-Man com novos labirintos e desafios, onde a jogadora deve comer todas as pastilhas enquanto evita fantasmas.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_ms_pacman.jpg"
+    },
+    {
+        "id": "128",
+        "titulo": "Night Driver",
+        "data_de_lancamento": "1980-01-01",
+        "descricao": "Um jogo de corrida onde o jogador dirige um carro em uma pista noturna, tentando evitar obstáculos e completar o percurso o mais rápido possível.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Corrida",
+        "url_capa": "URL_da_capa_night_driver.jpg"
+    },
+    {
+        "id": "129",
+        "titulo": "Oink!",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo onde o jogador controla um porquinho que deve evitar ser capturado por um lobo enquanto coleta itens em um cenário divertido e desafiador.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_oink.jpg"
+    },
+    {
+        "id": "130",
+        "titulo": "Omega Race",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de tiro espacial onde o jogador controla uma nave em uma pista fechada, enfrentando inimigos e evitando obstáculos enquanto coleta bônus.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_omega_race.jpg"
+    },
+    {
+        "id": "131",
+        "titulo": "Oscar's Trash Race",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo onde o jogador controla Oscar, o personagem do programa de TV, que deve competir em uma corrida de lixo e superar obstáculos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_oscar_trash_race.jpg"
+    },
+    {
+        "id": "132",
+        "titulo": "Othello",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Uma adaptação do jogo de tabuleiro Othello, onde o jogador deve capturar peças do oponente e virar todas as peças para a sua cor.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Estratégia/Tabuleiro",
+        "url_capa": "URL_da_capa_othello.jpg"
+    },
+    {
+        "id": "133",
+        "titulo": "Outlaw",
+        "data_de_lancamento": "1981-01-01",
+        "descricao": "Um jogo de tiro no estilo faroeste onde o jogador compete em duelos de pistolas, tentando eliminar o oponente antes que ele o faça.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_outlaw.jpg"
+    },
+    {
+        "id": "134",
+        "titulo": "Pac-Man",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "O clássico jogo onde o jogador controla Pac-Man, que deve comer todas as pastilhas em um labirinto enquanto evita fantasmas que tentam capturá-lo.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_pacman.jpg"
+    },
+    {
+        "id": "135",
+        "titulo": "Pelé's Soccer",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de futebol baseado no famoso jogador Pelé, onde o jogador controla uma equipe e compete em partidas de futebol para vencer o adversário.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Futebol",
+        "url_capa": "URL_da_capa_pele_soccer.jpg"
+    },
+    {
+        "id": "136",
+        "titulo": "Pengo",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo onde o jogador controla um pinguim que deve empurrar blocos de gelo e derrotar inimigos em um labirinto de gelo.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_pengo.jpg"
+    },
+    {
+        "id": "137",
+        "titulo": "Pete Rose Baseball",
+        "data_de_lancamento": "1988-01-01",
+        "descricao": "Um jogo de beisebol onde o jogador controla uma equipe em partidas e competições, tentando marcar pontos e vencer o adversário.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Beisebol",
+        "url_capa": "URL_da_capa_pete_rose_baseball.jpg"
+    },
+    {
+        "id": "138",
+        "titulo": "Phoenix",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de tiro espacial onde o jogador controla uma nave que deve enfrentar e destruir ondas de inimigos e chefes em uma batalha intergaláctica.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_phoenix.jpg"
+    },
+    {
+        "id": "139",
+        "titulo": "Pick 'n Pile",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Um jogo onde o jogador deve organizar e empilhar itens enquanto enfrenta desafios e tenta evitar que a pilha caia.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_pick_n_pile.jpg"
+    },
+    {
+        "id": "140",
+        "titulo": "Pitfall II: Lost Caverns",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "A sequência do clássico Pitfall, onde o jogador explora cavernas subterrâneas em busca de tesouros e deve evitar perigos enquanto coleta itens.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Plataforma",
+        "url_capa": "URL_da_capa_pitfall_ii.jpg"
+    },
+    {
+        "id": "141",
+        "titulo": "Pitfall!",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um clássico jogo de plataforma onde o jogador controla Pitfall Harry, um aventureiro que deve explorar uma selva cheia de perigos, evitando armadilhas e coletando tesouros.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Plataforma",
+        "url_capa": "URL_da_capa_pitfall.jpg"
+    },
+    {
+        "id": "142",
+        "titulo": "Planet Patrol",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de tiro espacial onde o jogador controla uma nave para proteger planetas e derrotar inimigos que ameaçam a galáxia.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_planet_patrol.jpg"
+    },
+    {
+        "id": "143",
+        "titulo": "Plaque Attack",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de ação onde o jogador controla um dentista que deve destruir placas dentárias que se aproximam, protegendo os dentes do paciente.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_plaque_attack.jpg"
+    },
+    {
+        "id": "144",
+        "titulo": "Polaris",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de tiro onde o jogador controla uma nave em um ambiente espacial e deve enfrentar inimigos e evitar obstáculos para completar suas missões.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_polaris.jpg"
+    },
+    {
+        "id": "145",
+        "titulo": "Pole Position",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de corrida de Fórmula 1 onde o jogador compete em uma pista de corrida, tentando terminar a corrida na frente e evitar colisões.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Corrida",
+        "url_capa": "URL_da_capa_pole_position.jpg"
+    },
+    {
+        "id": "146",
+        "titulo": "Pooyan",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "O jogador controla uma mamãe porca que deve usar um arco e flecha para proteger seus filhotes dos lobos que estão tentando pegá-los.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_pooyan.jpg"
+    },
+    {
+        "id": "147",
+        "titulo": "Popeye",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de arcade baseado no personagem Popeye, onde o jogador deve coletar corações e evitar inimigos enquanto tenta ganhar o amor de Olivia.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_popeye.jpg"
+    },
+    {
+        "id": "148",
+        "titulo": "Pressure Cooker",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "O jogador assume o papel de um cozinheiro que deve preparar pedidos de comida em uma cozinha apressada, evitando que os pedidos sejam feitos incorretamente.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_pressure_cooker.jpg"
+    },
+    {
+        "id": "149",
+        "titulo": "Private Eye",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Um jogo de aventura onde o jogador assume o papel de um detetive que deve resolver crimes e procurar pistas para encontrar o criminoso.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Aventura",
+        "url_capa": "URL_da_capa_private_eye.jpg"
+    },
+    {
+        "id": "150",
+        "titulo": "Q*bert",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de arcade onde o jogador controla Q*bert, um personagem que deve saltar por uma pirâmide de cubos para mudar suas cores e evitar inimigos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_qbert.jpg"
+    },
+    {
+        "id": "151",
+        "titulo": "Quadrun",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de ação onde o jogador controla um veículo que deve destruir inimigos em uma série de quadrados, enfrentando desafios e obstáculos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_quadrun.jpg"
+    },
+    {
+        "id": "152",
+        "titulo": "Rad Action Pak",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Uma coleção de jogos de ação que inclui uma série de mini-jogos com diferentes desafios e objetivos para o jogador completar.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_rad_action_pak.jpg"
+    },
+    {
+        "id": "153",
+        "titulo": "Radar Lock",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Um jogo de tiro onde o jogador controla um avião e deve destruir alvos inimigos enquanto evita obstáculos e defende seu território.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_radar_lock.jpg"
+    },
+    {
+        "id": "154",
+        "titulo": "Raiders of the Lost Ark",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo baseado no filme 'Os Caçadores da Arca Perdida', onde o jogador assume o papel de Indiana Jones e deve superar vários desafios para encontrar a arca.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Aventura",
+        "url_capa": "URL_da_capa_raiders_of_the_lost_ark.jpg"
+    },
+    {
+        "id": "155",
+        "titulo": "Rampage",
+        "data_de_lancamento": "1986-01-01",
+        "descricao": "Um jogo onde o jogador controla um dos três monstros gigantes que devem destruir cidades e enfrentar forças militares em um caos urbano.",
+        "quantidade_de_jogadores": "1-3",
+        "genero": "Ação/Destruição",
+        "url_capa": "URL_da_capa_rampage.jpg"
+    },
+    {
+        "id": "156",
+        "titulo": "RealSports Baseball",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de beisebol onde o jogador controla uma equipe e compete em partidas, tentando marcar pontos e vencer o adversário.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Beisebol",
+        "url_capa": "URL_da_capa_realsports_baseball.jpg"
+    },
+    {
+        "id": "157",
+        "titulo": "RealSports Football",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de futebol americano onde o jogador controla uma equipe e compete em partidas, tentando marcar touchdowns e vencer o adversário.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Futebol Americano",
+        "url_capa": "URL_da_capa_realsports_football.jpg"
+    },
+    {
+        "id": "158",
+        "titulo": "RealSports Tennis",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de tênis onde o jogador compete em partidas de tênis, tentando vencer o adversário e conquistar pontos em uma quadra.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Tênis",
+        "url_capa": "URL_da_capa_realsports_tennis.jpg"
+    },
+    {
+        "id": "159",
+        "titulo": "RealSports Volleyball",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Um jogo de vôlei onde o jogador controla uma equipe e compete em partidas de vôlei, tentando marcar pontos e vencer o adversário.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Vôlei",
+        "url_capa": "URL_da_capa_realsports_volleyball.jpg"
+    },
+    {
+        "id": "160",
+        "titulo": "River Raid",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de tiro onde o jogador controla uma aeronave e deve navegar por um rio, destruindo inimigos e evitando obstáculos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_river_raid.jpg"
+    },
+    {
+        "id": "161",
+        "titulo": "River Raid II",
+        "data_de_lancamento": "1988-01-01",
+        "descricao": "A sequência do clássico River Raid, onde o jogador controla uma aeronave em um novo cenário de rio, enfrentando novos desafios e inimigos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_river_raid_ii.jpg"
+    },
+    {
+        "id": "162",
+        "titulo": "Road Runner",
+        "data_de_lancamento": "1985-01-01",
+        "descricao": "Baseado nos desenhos animados, o jogador controla o Road Runner que deve evitar ser capturado pelo Coiote enquanto coleta itens ao longo da estrada.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_road_runner.jpg"
+    },
+    {
+        "id": "163",
+        "titulo": "Robot Tank",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Um jogo de tiro onde o jogador controla um tanque de guerra robótico e deve destruir inimigos e obstáculos em um campo de batalha.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_robot_tank.jpg"
+    },
+    {
+        "id": "164",
+        "titulo": "Seaquest",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo onde o jogador controla um submarino e deve resgatar mergulhadores enquanto evita e combate inimigos submarinos e minas.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_seaquest.jpg"
+    },
+    {
+        "id": "165",
+        "titulo": "Sentinel",
+        "data_de_lancamento": "1987-01-01",
+        "descricao": "Um jogo de estratégia onde o jogador controla uma unidade que deve defender uma base contra ondas de inimigos e completar várias missões.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Estratégia/Defesa",
+        "url_capa": "URL_da_capa_sentinel.jpg"
+    },
+    {
+        "id": "166",
+        "titulo": "Skiing",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de esportes onde o jogador controla um esquiador e deve descer uma pista de esqui, evitando obstáculos e coletando itens.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Esporte/Inverno",
+        "url_capa": "URL_da_capa_skiing.jpg"
+    },
+    {
+        "id": "167",
+        "titulo": "Sky Diver",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo onde o jogador controla um paraquedista que deve saltar de um avião e acertar o alvo na terra enquanto evita obstáculos no caminho.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_sky_diver.jpg"
+    },
+    {
+        "id": "168",
+        "titulo": "Sky Jinks",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de ação onde o jogador controla um piloto de avião e deve realizar manobras aéreas para evitar obstáculos e combater inimigos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Avião",
+        "url_capa": "URL_da_capa_sky_jinks.jpg"
+    },
+    {
+        "id": "169",
+        "titulo": "Slot Machine",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de cassino onde o jogador tenta ganhar prêmios girando as rodas de uma máquina caça-níqueis e conseguindo combinações vencedoras.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Cassino/Jogo de Sorte",
+        "url_capa": "URL_da_capa_slot_machine.jpg"
+    },
+    {
+        "id": "170",
+        "titulo": "Slot Racers",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de corrida onde o jogador controla carros de corrida em uma pista de slot, competindo para completar voltas no menor tempo possível.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Corrida",
+        "url_capa": "URL_da_capa_slot_racers.jpg"
+    },
+    {
+        "id": "171",
+        "titulo": "Smash Hit Pak",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Uma coleção de jogos de arcade que inclui vários desafios e mini-jogos para o jogador completar, cada um com uma mecânica única.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_smash_hit_pak.jpg"
+    },
+    {
+        "id": "172",
+        "titulo": "Smurf: Rescue In Gargamel's Castle",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo baseado nos Smurfs onde o jogador deve resgatar os Smurfs aprisionados no castelo de Gargamel, enfrentando desafios e inimigos pelo caminho.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Aventura",
+        "url_capa": "URL_da_capa_smurf_rescue.jpg"
+    },
+    {
+        "id": "173",
+        "titulo": "Sneak'n Peek",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo onde o jogador deve se esconder e procurar por outros jogadores em um ambiente de esconde-esconde, tentando evitá-los enquanto busca por pistas.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Esconde-Esconde",
+        "url_capa": "URL_da_capa_sneak_n_peek.jpg"
+    },
+    {
+        "id": "174",
+        "titulo": "Snoopy and the Red Baron",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo onde o jogador controla Snoopy no papel de piloto de caça e deve enfrentar o temido Barão Vermelho em batalhas aéreas.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Aviação",
+        "url_capa": "URL_da_capa_snoopy_red_baron.jpg"
+    },
+    {
+        "id": "175",
+        "titulo": "Solaris",
+        "data_de_lancamento": "1986-01-01",
+        "descricao": "Um jogo de tiro espacial onde o jogador deve defender planetas de ataques alienígenas e enfrentar uma série de inimigos e chefes espaciais.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_solaris.jpg"
+    },
+    {
+        "id": "176",
+        "titulo": "Space Invaders",
+        "data_de_lancamento": "1980-01-01",
+        "descricao": "O clássico jogo de tiro onde o jogador deve defender a Terra contra ondas de invasores alienígenas que descem em formação.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_space_invaders.jpg"
+    },
+    {
+        "id": "177",
+        "titulo": "Space Shuttle: A Journey Into Space",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Um simulador de voo onde o jogador controla um ônibus espacial e deve realizar uma missão espacial, incluindo lançamento, órbita e aterrissagem.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Simulação/Espaço",
+        "url_capa": "URL_da_capa_space_shuttle.jpg"
+    },
+    {
+        "id": "178",
+        "titulo": "Space War",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de combate espacial onde o jogador controla uma nave e deve enfrentar outros jogadores ou inimigos em batalhas intergalácticas.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_space_war.jpg"
+    },
+    {
+        "id": "179",
+        "titulo": "Spider Fighter",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo onde o jogador controla um avião de combate e deve destruir uma invasão de aranhas alienígenas que atacam a cidade.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_spider_fighter.jpg"
+    },
+    {
+        "id": "180",
+        "titulo": "Spinning Fireball",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Um jogo de ação onde o jogador controla uma esfera de fogo giratória e deve destruir inimigos enquanto evita obstáculos e armadilhas.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_spinning_fireball.jpg"
+    },
+    {
+        "id": "181",
+        "titulo": "Sprint Master",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Um jogo de corrida onde o jogador compete em uma série de pistas, tentando vencer corridas e evitar obstáculos enquanto controla um veículo de corrida.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Corrida",
+        "url_capa": "URL_da_capa_sprint_master.jpg"
+    },
+    {
+        "id": "182",
+        "titulo": "Spy Hunter",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Um jogo de ação e perseguição onde o jogador controla um carro de espionagem equipado com armas e deve derrotar inimigos enquanto evita obstáculos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_spy_hunter.jpg"
+    },
+    {
+        "id": "183",
+        "titulo": "Stampede",
+        "data_de_lancamento": "1981-01-01",
+        "descricao": "Um jogo de ação onde o jogador controla um vaqueiro que deve evitar e capturar um rebanho de bois que correm descontrolados pelo campo.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_stampede.jpg"
+    },
+    {
+        "id": "184",
+        "titulo": "Star Raiders",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de combate espacial onde o jogador deve proteger a galáxia de uma invasão alienígena, realizando missões e enfrentando inimigos em batalhas espaciais.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_star_raiders.jpg"
+    },
+    {
+        "id": "185",
+        "titulo": "Star Ship",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de simulação espacial onde o jogador controla uma nave estelar e deve completar diversas missões, enfrentando inimigos e explorando o espaço.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Simulação/Espaço",
+        "url_capa": "URL_da_capa_star_ship.jpg"
+    },
+    {
+        "id": "186",
+        "titulo": "Star Strike",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de tiro onde o jogador deve defender a Terra de uma invasão de naves espaciais, destruindo os inimigos antes que eles alcancem o planeta.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_star_strike.jpg"
+    },
+    {
+        "id": "187",
+        "titulo": "Star Trek: Strategic Operations Simulator",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de simulação baseado na série Star Trek onde o jogador assume o comando da nave estelar Enterprise e deve completar várias missões espaciais.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Simulação/Espaço",
+        "url_capa": "URL_da_capa_star_trek_strategic_operations_simulator.jpg"
+    },
+    {
+        "id": "188",
+        "titulo": "Stargate",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Uma versão melhorada de Defender, onde o jogador deve proteger colônias espaciais e combater ondas de inimigos alienígenas em um ambiente de tiro vertical.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_stargate.jpg"
+    },
+    {
+        "id": "189",
+        "titulo": "Starmaster",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de estratégia espacial onde o jogador controla uma nave e deve defender vários planetas contra invasões alienígenas e completar objetivos estratégicos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Estratégia/Espaço",
+        "url_capa": "URL_da_capa_starmaster.jpg"
+    },
+    {
+        "id": "190",
+        "titulo": "Steeplechase",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de esportes onde o jogador compete em uma corrida de obstáculos, controlando um cavalo e tentando superar barreiras para vencer a corrida.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Atletismo",
+        "url_capa": "URL_da_capa_steeplechase.jpg"
+    },
+    {
+        "id": "191",
+        "titulo": "Stellar Track",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de estratégia espacial onde o jogador deve gerenciar recursos e combater inimigos em um ambiente de simulação espacial complexo.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Estratégia/Espaço",
+        "url_capa": "URL_da_capa_stellar_track.jpg"
+    },
+    {
+        "id": "192",
+        "titulo": "Street Racer",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de corrida onde o jogador compete em uma série de pistas urbanas, tentando vencer corridas e evitar obstáculos na cidade.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Corrida",
+        "url_capa": "URL_da_capa_street_racer.jpg"
+    },
+    {
+        "id": "193",
+        "titulo": "Submarine Commander",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo onde o jogador controla um submarino e deve completar várias missões, incluindo ataques a navios inimigos e evasão de ameaças subaquáticas.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Submarino",
+        "url_capa": "URL_da_capa_submarine_commander.jpg"
+    },
+    {
+        "id": "194",
+        "titulo": "Summer Games",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Um jogo de esportes olímpicos de verão onde o jogador compete em diversos eventos esportivos, incluindo corridas, natação e lançamentos.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Olimpíada",
+        "url_capa": "URL_da_capa_summer_games.jpg"
+    },
+    {
+        "id": "195",
+        "titulo": "Super Breakout",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Uma atualização do clássico Breakout, onde o jogador controla uma barra para rebater uma bola e destruir blocos, com novos modos e desafios.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_super_breakout.jpg"
+    },
+    {
+        "id": "196",
+        "titulo": "Super Cobra",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de ação onde o jogador controla um helicóptero e deve completar várias missões de resgate e combate enquanto evita obstáculos e inimigos.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_super_cobra.jpg"
+    },
+    {
+        "id": "197",
+        "titulo": "Superman",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo baseado no super-herói Superman, onde o jogador deve combater criminosos e salvar a cidade de Metropolis de várias ameaças.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_superman.jpg"
+    },
+    {
+        "id": "198",
+        "titulo": "Surround",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de estratégia onde o jogador controla um ponto que deixa um rastro e deve cercar o oponente enquanto evita ser cercado.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Estratégia/Arcade",
+        "url_capa": "URL_da_capa_surround.jpg"
+    },
+    {
+        "id": "199",
+        "titulo": "Survival Run",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de corrida e sobrevivência onde o jogador deve correr por uma pista cheia de obstáculos, tentando sobreviver o máximo possível.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_survival_run.jpg"
+    },
+    {
+        "id": "200",
+        "titulo": "Swordquest: EarthWorld",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "O primeiro jogo da série Swordquest, onde o jogador deve explorar um mundo e resolver enigmas para obter uma espada mágica e completar desafios.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Aventura/Puzzle",
+        "url_capa": "URL_da_capa_swordquest_earthworld.jpg"
+    },
+    {
+        "id": "201",
+        "titulo": "Tapper",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo onde o jogador assume o papel de um barman, servindo bebidas a clientes e tentando evitar que eles se comportem mal ou causem problemas.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_tapper.jpg"
+    },
+    {
+        "id": "202",
+        "titulo": "Tempest (proto)",
+        "data_de_lancamento": "1981-01-01",
+        "descricao": "Uma versão protótipo do jogo Tempest, onde o jogador controla uma nave e deve destruir inimigos em um campo de jogo tridimensional.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_tempest_proto.jpg"
+    },
+    {
+        "id": "203",
+        "titulo": "Tennis",
+        "data_de_lancamento": "1980-01-01",
+        "descricao": "Um jogo de esportes onde o jogador compete em uma partida de tênis, tentando vencer o adversário em uma série de sets e pontos.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Tênis",
+        "url_capa": "URL_da_capa_tennis.jpg"
+    },
+    {
+        "id": "204",
+        "titulo": "The Activision Decathlon",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de esportes olímpicos onde o jogador compete em uma série de eventos de decatlo, tentando obter a melhor pontuação geral em todas as provas.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Olimpíada",
+        "url_capa": "URL_da_capa_activision_decathlon.jpg"
+    },
+    {
+        "id": "205",
+        "titulo": "The Earth Dies Screaming",
+        "data_de_lancamento": "1984-01-01",
+        "descricao": "Um jogo onde o jogador deve enfrentar uma invasão alienígena que ameaça destruir a Terra, combatendo inimigos e defendendo a humanidade.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_earth_dies_screaming.jpg"
+    },
+    {
+        "id": "206",
+        "titulo": "Title Match Pro Wrestling",
+        "data_de_lancamento": "1987-01-01",
+        "descricao": "Um jogo de luta livre onde o jogador controla um lutador e compete em combates de wrestling, tentando vencer os oponentes e ganhar títulos.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Luta Livre",
+        "url_capa": "URL_da_capa_title_match_pro_wrestling.jpg"
+    },
+    {
+        "id": "207",
+        "titulo": "Tomcat: The F-14 Fighter Simulator",
+        "data_de_lancamento": "1987-01-01",
+        "descricao": "Um simulador de voo onde o jogador controla um caça F-14 e deve completar várias missões de combate aéreo e defesa.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Simulação/Avião",
+        "url_capa": "URL_da_capa_tomcat_f14_fighter_simulator.jpg"
+    },
+    {
+        "id": "208",
+        "titulo": "Track & Field",
+        "data_de_lancamento": "1983-01-01",
+        "descricao": "Um jogo de esportes que simula eventos de atletismo, onde o jogador compete em corridas, saltos e lançamentos para obter a melhor pontuação.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Atletismo",
+        "url_capa": "URL_da_capa_track_and_field.jpg"
+    },
+    {
+        "id": "209",
+        "titulo": "Vanguard",
+        "data_de_lancamento": "1981-01-01",
+        "descricao": "Um jogo de tiro espacial onde o jogador controla uma nave e deve atravessar uma série de fases enfrentando inimigos e obstáculos em diferentes ambientes.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_vanguard.jpg"
+    },
+    {
+        "id": "210",
+        "titulo": "Venture",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de aventura e exploração onde o jogador controla um herói em uma série de labirintos, coletando tesouros e evitando monstros.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Aventura/Exploração",
+        "url_capa": "URL_da_capa_venture.jpg"
+    },
+    {
+        "id": "211",
+        "titulo": "Video Checkers",
+        "data_de_lancamento": "1981-01-01",
+        "descricao": "Uma versão digital do jogo de damas, onde o jogador compete em partidas de damas contra o computador ou outro jogador.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Estratégia/Tabuleiro",
+        "url_capa": "URL_da_capa_video_checkers.jpg"
+    },
+    {
+        "id": "212",
+        "titulo": "Video Chess",
+        "data_de_lancamento": "1981-01-01",
+        "descricao": "Uma versão digital do jogo de xadrez, onde o jogador pode desafiar o computador ou outro jogador em uma partida de xadrez.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Estratégia/Tabuleiro",
+        "url_capa": "URL_da_capa_video_chess.jpg"
+    },
+    {
+        "id": "213",
+        "titulo": "Video Olympics",
+        "data_de_lancamento": "1980-01-01",
+        "descricao": "Um jogo que simula diversos eventos olímpicos, permitindo ao jogador competir em esportes como corrida, natação e salto em distância.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Olimpíada",
+        "url_capa": "URL_da_capa_video_olympics.jpg"
+    },
+    {
+        "id": "214",
+        "titulo": "Video Pinball",
+        "data_de_lancamento": "1981-01-01",
+        "descricao": "Uma versão digital do pinball, onde o jogador controla flippers e tenta marcar pontos acertando a bola em várias áreas da mesa de pinball.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Arcade/Pinball",
+        "url_capa": "URL_da_capa_video_pinball.jpg"
+    },
+    {
+        "id": "215",
+        "titulo": "Warlords",
+        "data_de_lancamento": "1980-01-01",
+        "descricao": "Um jogo de estratégia e ação onde o jogador deve defender seu castelo de ataques inimigos enquanto tenta destruir as fortificações dos oponentes.",
+        "quantidade_de_jogadores": "1-4",
+        "genero": "Estratégia/Arcade",
+        "url_capa": "URL_da_capa_warlords.jpg"
+    },
+    {
+        "id": "216",
+        "titulo": "Winter Games",
+        "data_de_lancamento": "1985-01-01",
+        "descricao": "Um jogo de esportes que simula diversos eventos olímpicos de inverno, incluindo esqui, patinação e biatlo, permitindo ao jogador competir em várias provas.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Esporte/Olimpíada",
+        "url_capa": "URL_da_capa_winter_games.jpg"
+    },
+    {
+        "id": "217",
+        "titulo": "Wizard of Wor",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de ação onde o jogador deve explorar labirintos, combater monstros e salvar os outros jogadores enquanto coleta tesouros e evita perigos.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Arcade",
+        "url_capa": "URL_da_capa_wizard_of_wor.jpg"
+    },
+    {
+        "id": "218",
+        "titulo": "Xenophobe",
+        "data_de_lancamento": "1988-01-01",
+        "descricao": "Um jogo de ação onde o jogador deve enfrentar uma invasão alienígena dentro de uma estação espacial, enfrentando inimigos e completando objetivos de missão.",
+        "quantidade_de_jogadores": "1-2",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_xenophobe.jpg"
+    },
+    {
+        "id": "219",
+        "titulo": "Yars' Return",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "A sequência de Yars' Revenge, onde o jogador continua a batalha contra os inimigos alienígenas, com novos desafios e melhorias no jogo original.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_yars_return.jpg"
+    },
+    {
+        "id": "220",
+        "titulo": "Yars' Revenge",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de ação onde o jogador controla um inseto alienígena que busca vingança contra seus inimigos, enfrentando desafios em um ambiente espacial.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_yars_revenge.jpg"
+    },
+    {
+        "id": "221",
+        "titulo": "Zaxxon",
+        "data_de_lancamento": "1982-01-01",
+        "descricao": "Um jogo de tiro espacial onde o jogador controla uma nave e deve enfrentar uma série de inimigos e obstáculos em uma perspectiva isométrica.",
+        "quantidade_de_jogadores": "1",
+        "genero": "Ação/Espaço",
+        "url_capa": "URL_da_capa_zaxxon.jpg"
+    }
+]
